@@ -1,4 +1,4 @@
-/* Traffic lights - Train
+/* Traffic lights - Pedestrian
  *  
  * Created 2022 by Robert Sedak
  * 
